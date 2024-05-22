@@ -1,0 +1,11 @@
+*.pyc
+*~
+pycache
+.DS_Store
+.idea
+.directory
+.env
+.pytest_cache
+
+venv
+config.yaml

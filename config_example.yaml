@@ -1,0 +1,11 @@
+admin:
+  login: 
+  password:
+manager:
+  login:
+  password:
+courier:
+  login:
+  password:
+stand:
+  url:
